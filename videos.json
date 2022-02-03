@@ -309,37 +309,37 @@
       "category""id": 8
     }
   ],
-  categories: [
+  "categories": [
     {
       "id": 1,
-      title: "WLAN-Hilfe: Mach dein WLAN fit"
+      "title": "WLAN-Hilfe: Mach dein WLAN fit"
     },
     {
       "id": 2,
-      title: "Vertrag & Meine Daten"
+      "title": "Vertrag & Meine Daten"
     },
     {
       "id": 3,
-      title: "Auftrag & Erste Schritte"
+      "title": "Auftrag & Erste Schritte"
     },
     {
       "id": 4,
-      title: "Rechnung"
+      "title": "Rechnung"
     },
     {
       "id": 5,
-      title: "Hilfe bei Störungen"
+      "title": "Hilfe bei Störungen"
     },
     {
       "id": 6,
-      title: "Mobilfunk & Mobiles Internet"
+      "title": "Mobilfunk & Mobiles Internet"
     },
     {
       "id": 7,
-      title: "Festnetz, Internet & TV"
+      "title": "Festnetz, Internet & TV"
     },
     {
       "id": 8,
-      title: "Geräte & Zubehör"
+      "title": "Geräte & Zubehör"
     }
   ]
