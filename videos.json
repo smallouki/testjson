@@ -1,345 +1,345 @@
-videos:[{
-      id: "Fremd_104",
-      name: "Mach Dein WLAN fit \u2013 der richtige Standort zu Hause.",
-      description:
+"videos":[{
+      "id": "Fremd_104",
+      "name": "Mach Dein WLAN fit \u2013 der richtige Standort zu Hause.",
+      "description":
         "Einen schnellen Internetanschluss, einen neuen Rechner und trotzdem eine langsame Verbindung? Was das Internet zu Haus lahm legt und wie man schnell und einfach dagegen angeht, erfahren Sie im ersten Teil unserer Serie \u201eMach Dein WLAN fit!\u201c.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/2b646b0bf752cc536d50d1fe8288f54d.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_104.mp4",
-      type: "video",
-      categoryId: 1
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/2b646b0bf752cc536d50d1fe8288f54d.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_104.mp4",
+      "type": "video",
+      "category""id": 1
     },
     {
-      id: "Fremd_106",
-      name: "Mach Dein WLAN fit \u2013 bauliche Hindernisse \u00fcberwinden.",
-      description:
+      "id": "Fremd_106",
+      "name": "Mach Dein WLAN fit \u2013 bauliche Hindernisse \u00fcberwinden.",
+      "description":
         "In unserem dritten der Serie \u201eMach Dein WLAN fit!\u201c zeigen wir, mit welche baulichen \u0022Feinden\u0022 es unser WLAN-Signal aufnehmen muss, bis es Laptop, Smartphone \u0026 Co. versorgen kann.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/1eaa1de5fef38f513d9775d5b9534cf3.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_106.mp4",
-      type: "video",
-      categoryId: 1
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/1eaa1de5fef38f513d9775d5b9534cf3.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_106.mp4",
+      "type": "video",
+      "category""id": 1
     },
     {
-      id: "Fremd_105",
-      name: "Mach Dein WLAN fit \u2013 stabiles Signal trotz \u00dcberlastung.",
-      description:
+      "id": "Fremd_105",
+      "name": "Mach Dein WLAN fit \u2013 stabiles Signal trotz \u00dcberlastung.",
+      "description":
         "In Teil 2 unserer Serie \u201eMach Dein WLAN fit!\u201c besch\u00e4ftigen wir uns mit dem Thema \u201eKanal\u00fcberlastung\u201c. Denn ein WLAN kommt selten allein und muss sich verf\u00fcgbare Kan\u00e4le mit anderen teilen.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/9b1de9f82fb1508ee071108ec1e44700.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_105.mp4",
-      type: "video",
-      categoryId: 1
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/9b1de9f82fb1508ee071108ec1e44700.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_105.mp4",
+      "type": "video",
+      "category""id": 1
     },
     {
-      id: "EV52",
-      name: "Video-Ident \u2013 Die neue Art der Identifikation f\u00fcr Ihre Mobilfunkbestellung",
-      description:
-        "\u0022Seit letztem Jahr bieten wir Ihnen die M\u00f6glichkeit sich direkt online \u00fcber VideoIdent zu legitimieren. Dieses neue Verfahren bieten wir Ihnen bei neuen Mobilfunk-Bestellungen und der Aktivierung Ihrer Prepaid Karten an.Hierzu ben\u00f6tigen Sie lediglich Ihren Ausweis und eine Kamera. Den Ausweis pr\u00fcft unser Service-Mitarbeiter direkt online mit Ihnen pers\u00f6nlich. Video-Ident ist schnell, einfach und sicher.  Das folgende Video erkl\u00e4rt Ihnen in aller K\u00fcrze und einfach den Ablauf",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/b8fc0b538db0d1a6b22b01d505c7adaf.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV52.mp4",
-      type: "video",
-      categoryId: 2
+      "id": "EV52",
+      "name": "video-"id"ent \u2013 Die neue Art der "id"entifikation f\u00fcr Ihre Mobilfunkbestellung",
+      "description":
+        "\u0022Seit letztem Jahr bieten wir Ihnen die M\u00f6glichkeit sich direkt online \u00fcber video"id"ent zu legitimieren. Dieses neue Verfahren bieten wir Ihnen bei neuen Mobilfunk-Bestellungen und der Aktivierung Ihrer Prepa"id" Karten an.Hierzu ben\u00f6tigen Sie lediglich Ihren Ausweis und eine Kamera. Den Ausweis pr\u00fcft unser Service-Mitarbeiter direkt online mit Ihnen pers\u00f6nlich. video-"id"ent ist schnell, einfach und sicher.  Das folgende video erkl\u00e4rt Ihnen in aller K\u00fcrze und einfach den Ablauf",
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/b8fc0b538db0d1a6b22b01d505c7adaf.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV52.mp4",
+      "type": "video",
+      "category""id": 2
     },
     {
-      id: "Fremd_094",
-      name: "Telekom: Kundenprogramm Loyalit\u00e4tsprogramm MagentaEINS (Familienmitglieder)",
-      description: "Die Vorteile f\u00fcr die Familienmitglieder auf einen Blick.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/a7c1f8707f2488b77d3211d19bcd440a.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_094.mp4",
-      type: "video",
-      categoryId: 2
+      "id": "Fremd_094",
+      "name": "Telekom: Kundenprogramm Loyalit\u00e4tsprogramm MagentaEINS (Familienmitglieder)",
+      "description": "Die Vorteile f\u00fcr die Familienmitglieder auf einen Blick.",
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/a7c1f8707f2488b77d3211d19bcd440a.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_094.mp4",
+      "type": "video",
+      "category""id": 2
     },
     {
-      id: "TH43",
-      name: "Telekom hilft News: Vorbereitung Technikerbesuch",
-      description:
-        "In diesem Video erkl\u00e4rt euch Karsten, wie ihr euch am besten auf den Termin mit unseren Technikern vorbereiten k\u00f6nnt.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/3d7b6b9fbd98b6b0c797ceafa9ac8ee7.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH43.mp4",
-      type: "video",
-      categoryId: 3
+      "id": "TH43",
+      "name": "Telekom hilft News: Vorbereitung Technikerbesuch",
+      "description":
+        "In diesem video erkl\u00e4rt euch Karsten, wie ihr euch am besten auf den Termin mit unseren Technikern vorbereiten k\u00f6nnt.",
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/3d7b6b9fbd98b6b0c797ceafa9ac8ee7.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH43.mp4",
+      "type": "video",
+      "category""id": 3
     },
     {
-      id: "EV63",
-      name: "MagentaZuhause Schnellstart einfach einrichten.",
-      description:
+      "id": "EV63",
+      "name": "MagentaZuhause Schnellstart einfach einrichten.",
+      "description":
         "Die Einrichtung Ihres MagentaZuhause Schnellstart ist einfach und dauert nur rund 5 Minuten. Hier zeigen wir Ihnen Schritt f\u00fcr Schritt wie es geht. Ein paar Tipps f\u00fcr guten WLAN-Empfang gibt\u2019s nat\u00fcrlich auch.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/55436966790a028c1223a48411538d7c.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV63.mp4",
-      type: "video",
-      categoryId: 3
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/55436966790a028c1223a48411538d7c.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV63.mp4",
+      "type": "video",
+      "category""id": 3
     },
     {
-      id: "EV52",
-      name: "Video-Ident \u2013 Die neue Art der Identifikation f\u00fcr Ihre Mobilfunkbestellung",
-      description:
-        "\u0022Seit letztem Jahr bieten wir Ihnen die M\u00f6glichkeit sich direkt online \u00fcber VideoIdent zu legitimieren. Dieses neue Verfahren bieten wir Ihnen bei neuen Mobilfunk-Bestellungen und der Aktivierung Ihrer Prepaid Karten an.Hierzu ben\u00f6tigen Sie lediglich Ihren Ausweis und eine Kamera. Den Ausweis pr\u00fcft unser Service-Mitarbeiter direkt online mit Ihnen pers\u00f6nlich. Video-Ident ist schnell, einfach und sicher.  Das folgende Video erkl\u00e4rt Ihnen in aller K\u00fcrze und einfach den Ablauf",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/b8fc0b538db0d1a6b22b01d505c7adaf.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV52.mp4",
-      type: "video",
-      categoryId: 3
+      "id": "EV52",
+      "name": "video-"id"ent \u2013 Die neue Art der "id"entifikation f\u00fcr Ihre Mobilfunkbestellung",
+      "description":
+        "\u0022Seit letztem Jahr bieten wir Ihnen die M\u00f6glichkeit sich direkt online \u00fcber video"id"ent zu legitimieren. Dieses neue Verfahren bieten wir Ihnen bei neuen Mobilfunk-Bestellungen und der Aktivierung Ihrer Prepa"id" Karten an.Hierzu ben\u00f6tigen Sie lediglich Ihren Ausweis und eine Kamera. Den Ausweis pr\u00fcft unser Service-Mitarbeiter direkt online mit Ihnen pers\u00f6nlich. video-"id"ent ist schnell, einfach und sicher.  Das folgende video erkl\u00e4rt Ihnen in aller K\u00fcrze und einfach den Ablauf",
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/b8fc0b538db0d1a6b22b01d505c7adaf.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV52.mp4",
+      "type": "video",
+      "category""id": 3
     },
     {
-      id: "EV57",
-      name: "Telekom Gesch\u00e4ftskunden \u2013 Bereitstellung, Verkabelung und Einrichtung des Routers",
-      description:
-        "In diesem Video zeigen wir Ihnen Schritt f\u00fcr Schritt was Sie bereits im Vorfeld der Bereitstellung beachten sollten, wie die Verkabelung Ihrer Ger\u00e4te funktioniert und wie Sie Ihren Router einrichten.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/1d87db5041a5c48daa564c7f65b8907c.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV57.mp4",
-      type: "video",
-      categoryId: 3
+      "id": "EV57",
+      "name": "Telekom Gesch\u00e4ftskunden \u2013 Bereitstellung, Verkabelung und Einrichtung des Routers",
+      "description":
+        "In diesem video zeigen wir Ihnen Schritt f\u00fcr Schritt was Sie bereits im Vorfeld der Bereitstellung beachten sollten, wie die Verkabelung Ihrer Ger\u00e4te funktioniert und wie Sie Ihren Router einrichten.",
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/1d87db5041a5c48daa564c7f65b8907c.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV57.mp4",
+      "type": "video",
+      "category""id": 3
     },
     {
-      id: "TH21",
-      name: "Telekom hilft News: Drittanbieter-Dienste auf der Mobilfunk-Rechnung",
-      description:
-        "Sie haben Ihre Mobilfunk-Rechnung erhalten und haben Fragen zu den in Rechnung gestellten Leistungen eines Drittanbieters?   Wir helfen Ihnen, sich zurecht zu finden und erkl\u00e4ren in diesem Video:   - Was genau ein Drittanbieter ist, wie Drittanbieter-Leistungen auf der Rechnung zu erkennen sind, wie die Leistungen gebucht und abgerechnet werden und an wen Sie sich bei Fragen zu den in Rechnung gestellten Leistungen wenden k\u00f6nnen.   - Wie Sie individuell und sicher die Nutzung von Drittanbieterdiensten verwalten k\u00f6nnen.  Verwaltung von Drittanbieterdiensten unter: http://www.telekom.de/kundencenter  Mehr Informationen zum Aufbau Ihrer Mobilfunk-Rechnung erfahren Sie hier: http://t.de/adyqikXb",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/63ff4777ab7c125a802267455ce28c1b.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH21.mp4",
-      type: "video",
-      categoryId: 4
+      "id": "TH21",
+      "name": "Telekom hilft News: Drittanbieter-Dienste auf der Mobilfunk-Rechnung",
+      "description":
+        "Sie haben Ihre Mobilfunk-Rechnung erhalten und haben Fragen zu den in Rechnung gestellten Leistungen eines Drittanbieters?   Wir helfen Ihnen, sich zurecht zu finden und erkl\u00e4ren in diesem video:   - Was genau ein Drittanbieter ist, wie Drittanbieter-Leistungen auf der Rechnung zu erkennen sind, wie die Leistungen gebucht und abgerechnet werden und an wen Sie sich bei Fragen zu den in Rechnung gestellten Leistungen wenden k\u00f6nnen.   - Wie Sie indiv"id"uell und sicher die Nutzung von Drittanbieterdiensten verwalten k\u00f6nnen.  Verwaltung von Drittanbieterdiensten unter: http://www.telekom.de/kundencenter  Mehr Informationen zum Aufbau Ihrer Mobilfunk-Rechnung erfahren Sie hier: http://t.de/adyqikXb",
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/63ff4777ab7c125a802267455ce28c1b.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH21.mp4",
+      "type": "video",
+      "category""id": 4
     },
     {
-      id: "TH30",
-      name: "Mobilfunk RechnungOnline f\u00fcr Gesch\u00e4ftskunden",
-      description:
+      "id": "TH30",
+      "name": "Mobilfunk RechnungOnline f\u00fcr Gesch\u00e4ftskunden",
+      "description":
         "Sie m\u00f6chten Ihre Mobilfunk-Rechnung online verwalten? Wir erkl\u00e4ren Ihnen, wie Sie einen Account f\u00fcr RechnungOnline erhalten und zeigen Ihnen kurz die wichtigsten Funktionen im Portal.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/7adb42e8bf567748365265535fe48a3f.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH30.mp4",
-      type: "video",
-      categoryId: 4
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/7adb42e8bf567748365265535fe48a3f.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH30.mp4",
+      "type": "video",
+      "category""id": 4
     },
     {
-      id: "VD170",
-      name: "Telekom: Ihre erste Mobilfunk-Rechnung nach einem Tarifwechsel",
-      description:
-        "Sie haben Ihren Mobilfunk-Vertrag gewechselt und haben Fragen zu Ihrer neuen Rechnung?   Wir helfen Ihnen, sich zurecht zu finden und erkl\u00e4ren Ihnen in diesem Video Schritt-f\u00fcr Schritt den Aufbau Ihrer Rechnung.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/73d13fc062a1692411a978c6f5768160.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/VD170.mp4",
-      type: "video",
-      categoryId: 4
+      "id": "VD170",
+      "name": "Telekom: Ihre erste Mobilfunk-Rechnung nach einem Tarifwechsel",
+      "description":
+        "Sie haben Ihren Mobilfunk-Vertrag gewechselt und haben Fragen zu Ihrer neuen Rechnung?   Wir helfen Ihnen, sich zurecht zu finden und erkl\u00e4ren Ihnen in diesem video Schritt-f\u00fcr Schritt den Aufbau Ihrer Rechnung.",
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/73d13fc062a1692411a978c6f5768160.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/VD170.mp4",
+      "type": "video",
+      "category""id": 4
     },
     {
-      id: "VD175_02_UT",
-      name: "Telekom: Ihre erste Festnetzrechnung nach einem Tarifwechsel (UT)",
-      description:
-        "Sie haben Ihren Festnetz-Vertrag gewechselt und haben Fragen zu Ihrer neuen Rechnung?   Wir helfen Ihnen, sich zurecht zu finden und erkl\u00e4ren Ihnen in diesem Video Schritt-f\u00fcr Schritt den Aufbau Ihrer Rechnung.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/e910fe591e9e2b0d935077cb43d5b037.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/VD175_02_UT.mp4",
-      type: "video",
-      categoryId: 4
+      "id": "VD175_02_UT",
+      "name": "Telekom: Ihre erste Festnetzrechnung nach einem Tarifwechsel (UT)",
+      "description":
+        "Sie haben Ihren Festnetz-Vertrag gewechselt und haben Fragen zu Ihrer neuen Rechnung?   Wir helfen Ihnen, sich zurecht zu finden und erkl\u00e4ren Ihnen in diesem video Schritt-f\u00fcr Schritt den Aufbau Ihrer Rechnung.",
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/e910fe591e9e2b0d935077cb43d5b037.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/VD175_02_UT.mp4",
+      "type": "video",
+      "category""id": 4
     },
     {
-      id: "EV7",
-      name: "Internetprobleme am Smartphone",
-      description:
+      "id": "EV7",
+      "name": "Internetprobleme am Smartphone",
+      "description":
         "Wenn Sie dar\u00fcber hinaus noch Fragen haben, schauen Sie unter https://www.telekom.de/hilfe/festnetz-internet-tv oder rufen Sie uns an.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/dfe9e29a9426cc1a17633f49223d68c2.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV7.mp4",
-      type: "video",
-      categoryId: 5
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/dfe9e29a9426cc1a17633f49223d68c2.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV7.mp4",
+      "type": "video",
+      "category""id": 5
     },
     {
-      id: "EV66a",
-      name: "So geht...Heimnetz!",
-      description:
+      "id": "EV66a",
+      "name": "So geht...Heimnetz!",
+      "description":
         "Wir zeigen euch die drei h\u00e4ufigsten Ursachen f\u00fcr langsames WLAN und geben euch Tipps, wie ihr es wieder schneller bekommt. Wenn ihr Fragen habt: Wir sind gern f\u00fcr euch da!",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/19b5d3c2823959a388d877de7ba1e6a5.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV66a.mp4",
-      type: "video",
-      categoryId: 5
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/19b5d3c2823959a388d877de7ba1e6a5.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV66a.mp4",
+      "type": "video",
+      "category""id": 5
     },
     {
-      id: "EV3",
-      name: "Reset auf Werkseinstellung",
-      description:
-        "In diesem Video zeigen wir Ihnen, wie Sie bei Ihrem Smartphone einen Reset auf Werkseinstellungen durchf\u00fchren k\u00f6nnen. Das kann sinnvoll sein, wenn Fehler am Betriebssystem oder bei den Anwendungen auftreten.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/c10e51d75dbd232c46125d7cd54be850.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV3.mp4",
-      type: "video",
-      categoryId: 5
+      "id": "EV3",
+      "name": "Reset auf Werkseinstellung",
+      "description":
+        "In diesem video zeigen wir Ihnen, wie Sie bei Ihrem Smartphone einen Reset auf Werkseinstellungen durchf\u00fchren k\u00f6nnen. Das kann sinnvoll sein, wenn Fehler am Betriebssystem oder bei den Anwendungen auftreten.",
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/c10e51d75dbd232c46125d7cd54be850.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV3.mp4",
+      "type": "video",
+      "category""id": 5
     },
     {
-      id: "EV8",
-      name: "Paketdaten im Smartphone bei Internetproblemen aktivieren",
-      description:
-        "In diesem Video zeigen wir Ihnen, wie Sie die Paketdaten in Ihrem Smartphone aktivieren. Das kann sinnvoll sein, wenn das Internet bei Ihrem Smartphone nicht funktioniert.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/f59de96c14e548a3af162f90191616db.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV8.mp4",
-      type: "video",
-      categoryId: 5
+      "id": "EV8",
+      "name": "Paketdaten im Smartphone bei Internetproblemen aktivieren",
+      "description":
+        "In diesem video zeigen wir Ihnen, wie Sie die Paketdaten in Ihrem Smartphone aktivieren. Das kann sinnvoll sein, wenn das Internet bei Ihrem Smartphone nicht funktioniert.",
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/f59de96c14e548a3af162f90191616db.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV8.mp4",
+      "type": "video",
+      "category""id": 5
     },
     {
-      id: "Fremd_038",
-      name: "Telekom: Die Voicemail-App der Telekom",
-      description:
+      "id": "Fremd_038",
+      "name": "Telekom: Die Voicemail-App der Telekom",
+      "description":
         "Mit Voicemail haben Sie alle Sprachnachrichten Ihrer Telekom Mobilbox und SprachBox am IP-Anschluss auf einen Blick - von Zuhause und Mobil. H\u00f6ren Sie Nachrichten einfach an und rufen direkt aus der App zur\u00fcck. Oder lassen Sie sich auf Wunsch Ihre Nachrichten zus\u00e4tzlich als Text anzeigen.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/02cb028d3cad8b3e59fb38b2c1596100.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_038.mp4",
-      type: "video",
-      categoryId: 6
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/02cb028d3cad8b3e59fb38b2c1596100.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_038.mp4",
+      "type": "video",
+      "category""id": 6
     },
     {
-      id: "TH24",
-      name: "Telekom hilft News: StreamOn",
-      description: "Mit StreamOn Musik & Videos mobil erleben, ohne Datenvolumen zu verbrauchen!",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/e75e0a89ce27bbded551fdece267546b.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH24.mp4",
-      type: "video",
-      categoryId: 6
+      "id": "TH24",
+      "name": "Telekom hilft News: StreamOn",
+      "description": "Mit StreamOn Musik & videos mobil erleben, ohne Datenvolumen zu verbrauchen!",
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/e75e0a89ce27bbded551fdece267546b.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH24.mp4",
+      "type": "video",
+      "category""id": 6
     },
     {
-      id: "Fremd_153",
-      name: "MeinMagenta App: Handy & Festnetz in einer App",
-      description:
+      "id": "Fremd_153",
+      "name": "MeinMagenta App: Handy & Festnetz in einer App",
+      "description":
         "Eine für alles. Alle wichtigen Infos zu Telekom Services wie Datenverbrauch, Vertrag, Rechnungen, Guthaben, Auftragsübersicht und vieles mehr auf einen Blick.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/89d27065fe6621173bec9800f7cd85d3.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_153.mp4",
-      type: "video",
-      categoryId: 6
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/89d27065fe6621173bec9800f7cd85d3.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_153.mp4",
+      "type": "video",
+      "category""id": 6
     },
     {
-      id: "Spam_Main_2015_neu",
-      name: "Telekom: E-Mail \u2013 Spamfilter Funktionsweise",
-      description:
-        "In diesem Video stellen wir Ihnen die Funktionsweise des Spamfilters im Telekom E-Mail Center vor.  Mehr Informationen zum E-Mail Center der Telekom unter  https://kommunikationsdienste.t-online.de/emailcenter/info",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/527d858f5b158af7b28479de542f63e6.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Spam_Main_2015_neu.mp4",
-      type: "video",
-      categoryId: 7
+      "id": "Spam_Main_2015_neu",
+      "name": "Telekom: E-Mail \u2013 Spamfilter Funktionsweise",
+      "description":
+        "In diesem video stellen wir Ihnen die Funktionsweise des Spamfilters im Telekom E-Mail Center vor.  Mehr Informationen zum E-Mail Center der Telekom unter  https://kommunikationsdienste.t-online.de/emailcenter/info",
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/527d858f5b158af7b28479de542f63e6.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Spam_Main_2015_neu.mp4",
+      "type": "video",
+      "category""id": 7
     },
     {
-      id: "Fremd_134",
-      name: "Fit f\u00fcr den Glasfaseranschluss?",
-      description:
-        "Dieses Video zeigt was zu tun ist, damit\u00a0unser Techniker den Glasfaseranschluss installieren kann.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/911a3dda06fbc499d879c8a4f07c7642.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_134.mp4",
-      type: "video",
-      categoryId: 7
+      "id": "Fremd_134",
+      "name": "Fit f\u00fcr den Glasfaseranschluss?",
+      "description":
+        "Dieses video zeigt was zu tun ist, damit\u00a0unser Techniker den Glasfaseranschluss installieren kann.",
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/911a3dda06fbc499d879c8a4f07c7642.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_134.mp4",
+      "type": "video",
+      "category""id": 7
     },
     {
-      id: "Fremd_029",
-      name: "Glasfaser / FTTH-Hausanschluss",
-      description:
+      "id": "Fremd_029",
+      "name": "Glasfaser / FTTH-Hausanschluss",
+      "description":
         "Sie bauen ein Haus im FTTH-Gebiet (Fiber to the Home) und m\u00f6chten dies zukunftssicher anbinden? Im Film erfahren Sie, wie die Glasfasertechnik bis in Ihr Haus gelangt.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/bae5bdd956fbbe27dd86eabc950d1abd.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_029.mp4",
-      type: "video",
-      categoryId: 7
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/bae5bdd956fbbe27dd86eabc950d1abd.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_029.mp4",
+      "type": "video",
+      "category""id": 7
     },
     {
-      id: "Fremd_140",
-      name: "Die MagentaTVBox \u2013 Ersteinrichtung",
-      description:
+      "id": "Fremd_140",
+      "name": "Die MagentaTVBox \u2013 Ersteinrichtung",
+      "description":
         "Wir zeigen Ihnen, wie einfach und komfortabel die Einrichtung der MagentaTV Box ist.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/5acb27031ac8abc69f88432c43fcf170.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_140.mp4",
-      type: "video",
-      categoryId: 8
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/5acb27031ac8abc69f88432c43fcf170.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_140.mp4",
+      "type": "video",
+      "category""id": 8
     },
     {
-      id: "Fremd_106",
-      name: "Mach Dein WLAN fit \u2013 bauliche Hindernisse \u00fcberwinden.",
-      description:
+      "id": "Fremd_106",
+      "name": "Mach Dein WLAN fit \u2013 bauliche Hindernisse \u00fcberwinden.",
+      "description":
         "In unserem dritten der Serie \u201eMach Dein WLAN fit!\u201c zeigen wir, mit welche baulichen \u0022Feinden\u0022 es unser WLAN-Signal aufnehmen muss, bis es Laptop, Smartphone \u0026 Co. versorgen kann.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/1eaa1de5fef38f513d9775d5b9534cf3.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_106.mp4",
-      type: "video",
-      categoryId: 8
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/1eaa1de5fef38f513d9775d5b9534cf3.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_106.mp4",
+      "type": "video",
+      "category""id": 8
     },
     {
-      id: "EV56",
-      name: "Speed Home WiFi – Highspeed-WLAN überall in Ihrem Zuhause installieren",
-      description:
+      "id": "EV56",
+      "name": "Speed Home WiFi – Highspeed-WLAN überall in Ihrem Zuhause installieren",
+      "description":
         "Richten Sie mit Speed Home WiFi ein flächendeckendes Mesh-WLAN Netzwerk ein und genießen Sie Highspeed in jedem Winkel Ihres Zuhauses bzw. Ihrer Wohnung.",
-      thumbnail:
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/74815961ac14cdd49f59dfdcb0da5b0d.jpg",
-      subtitle: null,
-      url: "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV56.mp4",
-      type: "video",
-      categoryId: 8
+      "thumbnail":
+        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/"thumbnail"s/74815961ac14cdd49f59dfdcb0da5b0d.jpg",
+      "subtitle": null,
+      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV56.mp4",
+      "type": "video",
+      "category""id": 8
     }
   ],
   categories: [
     {
-      id: 1,
+      "id": 1,
       title: "WLAN-Hilfe: Mach dein WLAN fit"
     },
     {
-      id: 2,
+      "id": 2,
       title: "Vertrag & Meine Daten"
     },
     {
-      id: 3,
+      "id": 3,
       title: "Auftrag & Erste Schritte"
     },
     {
-      id: 4,
+      "id": 4,
       title: "Rechnung"
     },
     {
-      id: 5,
+      "id": 5,
       title: "Hilfe bei Störungen"
     },
     {
-      id: 6,
+      "id": 6,
       title: "Mobilfunk & Mobiles Internet"
     },
     {
-      id: 7,
+      "id": 7,
       title: "Festnetz, Internet & TV"
     },
     {
-      id: 8,
+      "id": 8,
       title: "Geräte & Zubehör"
     }
   ]
