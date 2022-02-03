@@ -1,4 +1,4 @@
-"videos":[{
+{"videos":[{
       "id": "Fremd_104",
       "name": "Mach Dein WLAN fit \u2013 der richtige Standort zu Hause.",
       "description":
@@ -8,7 +8,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_104.mp4",
       "type": "video",
-      "category""id": 1
+      "categoryid": 1
     },
     {
       "id": "Fremd_106",
@@ -20,7 +20,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_106.mp4",
       "type": "video",
-      "category""id": 1
+      "categoryid": 1
     },
     {
       "id": "Fremd_105",
@@ -32,19 +32,19 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_105.mp4",
       "type": "video",
-      "category""id": 1
+      "categoryid": 1
     },
     {
       "id": "EV52",
       "name": "video-ident \u2013 Die neue Art der identifikation f\u00fcr Ihre Mobilfunkbestellung",
       "description":
-        "\u0022Seit letztem Jahr bieten wir Ihnen die M\u00f6glichkeit sich direkt online \u00fcber videoident zu legitimieren. Dieses neue Verfahren bieten wir Ihnen bei neuen Mobilfunk-Bestellungen und der Aktivierung Ihrer Prepa"id" Karten an.Hierzu ben\u00f6tigen Sie lediglich Ihren Ausweis und eine Kamera. Den Ausweis pr\u00fcft unser Service-Mitarbeiter direkt online mit Ihnen pers\u00f6nlich. video-ident ist schnell, einfach und sicher.  Das folgende video erkl\u00e4rt Ihnen in aller K\u00fcrze und einfach den Ablauf",
+        "\u0022Seit letztem Jahr bieten wir Ihnen die M\u00f6glichkeit sich direkt online \u00fcber videoident zu legitimieren. Dieses neue Ve",
       "thumbnail":
         "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/b8fc0b538db0d1a6b22b01d505c7adaf.jpg",
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV52.mp4",
       "type": "video",
-      "category""id": 2
+      "categoryid": 2
     },
     {
       "id": "Fremd_094",
@@ -55,7 +55,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_094.mp4",
       "type": "video",
-      "category""id": 2
+      "categoryid": 2
     },
     {
       "id": "TH43",
@@ -67,7 +67,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH43.mp4",
       "type": "video",
-      "category""id": 3
+      "categoryid": 3
     },
     {
       "id": "EV63",
@@ -79,19 +79,19 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV63.mp4",
       "type": "video",
-      "category""id": 3
+      "categoryid": 3
     },
     {
       "id": "EV52",
       "name": "video-ident \u2013 Die neue Art der identifikation f\u00fcr Ihre Mobilfunkbestellung",
       "description":
-        "\u0022Seit letztem Jahr bieten wir Ihnen die M\u00f6glichkeit sich direkt online \u00fcber videoident zu legitimieren. Dieses neue Verfahren bieten wir Ihnen bei neuen Mobilfunk-Bestellungen und der Aktivierung Ihrer Prepa"id" Karten an.Hierzu ben\u00f6tigen Sie lediglich Ihren Ausweis und eine Kamera. Den Ausweis pr\u00fcft unser Service-Mitarbeiter direkt online mit Ihnen pers\u00f6nlich. video-ident ist schnell, einfach und sicher.  Das folgende video erkl\u00e4rt Ihnen in aller K\u00fcrze und einfach den Ablauf",
+        "\u0022Seit letztem Jahr bieten wir Ihnen die M\u00f6glichkeit sich direkt online \u00fcber videoident zu legitimieren. Dieses neue Sie lediglich Ihren Ausweis und eine Kamera. Den Ausweis pr\u00fcft unser Service-Mitarbeiter direkt online mit Ihnen pers\u00f6nlich. video-ident ist schnell, einfach und sicher.  Das folgende video erkl\u00e4rt Ihnen in aller K\u00fcrze und einfach den Ablauf",
       "thumbnail":
         "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/b8fc0b538db0d1a6b22b01d505c7adaf.jpg",
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV52.mp4",
       "type": "video",
-      "category""id": 3
+      "categoryid": 3
     },
     {
       "id": "EV57",
@@ -103,19 +103,19 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV57.mp4",
       "type": "video",
-      "category""id": 3
+      "categoryid": 3
     },
     {
       "id": "TH21",
       "name": "Telekom hilft News: Drittanbieter-Dienste auf der Mobilfunk-Rechnung",
       "description":
-        "Sie haben Ihre Mobilfunk-Rechnung erhalten und haben Fragen zu den in Rechnung gestellten Leistungen eines Drittanbieters?   Wir helfen Ihnen, sich zurecht zu finden und erkl\u00e4ren in diesem video:   - Was genau ein Drittanbieter ist, wie Drittanbieter-Leistungen auf der Rechnung zu erkennen sind, wie die Leistungen gebucht und abgerechnet werden und an wen Sie sich bei Fragen zu den in Rechnung gestellten Leistungen wenden k\u00f6nnen.   - Wie Sie indiv"id"uell und sicher die Nutzung von Drittanbieterdiensten verwalten k\u00f6nnen.  Verwaltung von Drittanbieterdiensten unter: http://www.telekom.de/kundencenter  Mehr Informationen zum Aufbau Ihrer Mobilfunk-Rechnung erfahren Sie hier: http://t.de/adyqikXb",
+        "Sie haben Ihre Mobilfunk-Rechnung erhalten und haben Fragen zu den in Rechnung gestellten Leistungen eines Drittanbieters?   Wir helfen Ihnen, sich zurecht zu finden und erkl\u00e4ren in diesem video:   - Was genau ein Drittanbieter ist, wie DrittanbieterDrittanbieterdiensten verwalten k\u00f6nnen.  Verwaltung von Drittanbieterdiensten unter: http://www.telekom.de/kundencenter  Mehr Informationen zum Aufbau Ihrer Mobilfunk-Rechnung erfahren Sie hier: http://t.de/adyqikXb",
       "thumbnail":
         "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/63ff4777ab7c125a802267455ce28c1b.jpg",
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH21.mp4",
       "type": "video",
-      "category""id": 4
+      "categoryid": 4
     },
     {
       "id": "TH30",
@@ -127,7 +127,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH30.mp4",
       "type": "video",
-      "category""id": 4
+      "categoryid": 4
     },
     {
       "id": "VD170",
@@ -139,7 +139,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/VD170.mp4",
       "type": "video",
-      "category""id": 4
+      "categoryid": 4
     },
     {
       "id": "VD175_02_UT",
@@ -151,7 +151,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/VD175_02_UT.mp4",
       "type": "video",
-      "category""id": 4
+      "categoryid": 4
     },
     {
       "id": "EV7",
@@ -163,7 +163,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV7.mp4",
       "type": "video",
-      "category""id": 5
+      "categoryid": 5
     },
     {
       "id": "EV66a",
@@ -175,7 +175,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV66a.mp4",
       "type": "video",
-      "category""id": 5
+      "categoryid": 5
     },
     {
       "id": "EV3",
@@ -187,7 +187,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV3.mp4",
       "type": "video",
-      "category""id": 5
+      "categoryid": 5
     },
     {
       "id": "EV8",
@@ -199,7 +199,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV8.mp4",
       "type": "video",
-      "category""id": 5
+      "categoryid": 5
     },
     {
       "id": "Fremd_038",
@@ -211,7 +211,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_038.mp4",
       "type": "video",
-      "category""id": 6
+      "categoryid": 6
     },
     {
       "id": "TH24",
@@ -222,7 +222,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH24.mp4",
       "type": "video",
-      "category""id": 6
+      "categoryid": 6
     },
     {
       "id": "Fremd_153",
@@ -234,7 +234,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_153.mp4",
       "type": "video",
-      "category""id": 6
+      "categoryid": 6
     },
     {
       "id": "Spam_Main_2015_neu",
@@ -246,7 +246,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Spam_Main_2015_neu.mp4",
       "type": "video",
-      "category""id": 7
+      "categoryid": 7
     },
     {
       "id": "Fremd_134",
@@ -258,7 +258,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_134.mp4",
       "type": "video",
-      "category""id": 7
+      "categoryid": 7
     },
     {
       "id": "Fremd_029",
@@ -270,7 +270,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_029.mp4",
       "type": "video",
-      "category""id": 7
+      "categoryid": 7
     },
     {
       "id": "Fremd_140",
@@ -282,7 +282,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_140.mp4",
       "type": "video",
-      "category""id": 8
+      "categoryid": 8
     },
     {
       "id": "Fremd_106",
@@ -294,7 +294,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_106.mp4",
       "type": "video",
-      "category""id": 8
+      "categoryid": 8
     },
     {
       "id": "EV56",
@@ -306,7 +306,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV56.mp4",
       "type": "video",
-      "category""id": 8
+      "categoryid": 8
     }
   ],
   "categories": [
@@ -343,3 +343,4 @@
       "title": "Geräte & Zubehör"
     }
   ]
+}
