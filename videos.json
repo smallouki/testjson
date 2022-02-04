@@ -44,7 +44,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV52.mp4",
       "type": "video",
-      "categoryId": 2
+      "categoryId": 1
     },
     {
       "id": "Fremd_094",
@@ -55,7 +55,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_094.mp4",
       "type": "video",
-      "categoryId": 2
+      "categoryId": 1
     },
     {
       "id": "TH43",
@@ -67,7 +67,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH43.mp4",
       "type": "video",
-      "categoryId": 3
+      "categoryId": 1
     },
     {
       "id": "EV63",
@@ -79,7 +79,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV63.mp4",
       "type": "video",
-      "categoryId": 3
+      "categoryId": 1
     },
     {
       "id": "EV52",
