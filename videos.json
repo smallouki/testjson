@@ -8,7 +8,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_104.mp4",
       "type": "video",
-      "categoryid": 1
+      "categoryId": 1
     },
     {
       "id": "Fremd_106",
@@ -20,7 +20,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_106.mp4",
       "type": "video",
-      "categoryid": 1
+      "categoryId": 1
     },
     {
       "id": "Fremd_105",
@@ -32,7 +32,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_105.mp4",
       "type": "video",
-      "categoryid": 1
+      "categoryId": 1
     },
     {
       "id": "EV52",
@@ -44,7 +44,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV52.mp4",
       "type": "video",
-      "categoryid": 2
+      "categoryId": 2
     },
     {
       "id": "Fremd_094",
@@ -55,7 +55,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_094.mp4",
       "type": "video",
-      "categoryid": 2
+      "categoryId": 2
     },
     {
       "id": "TH43",
@@ -67,7 +67,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH43.mp4",
       "type": "video",
-      "categoryid": 3
+      "categoryId": 3
     },
     {
       "id": "EV63",
@@ -79,7 +79,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV63.mp4",
       "type": "video",
-      "categoryid": 3
+      "categoryId": 3
     },
     {
       "id": "EV52",
@@ -91,7 +91,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV52.mp4",
       "type": "video",
-      "categoryid": 3
+      "categoryId": 3
     },
     {
       "id": "EV57",
@@ -103,7 +103,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV57.mp4",
       "type": "video",
-      "categoryid": 3
+      "categoryId": 3
     },
     {
       "id": "TH21",
@@ -115,7 +115,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH21.mp4",
       "type": "video",
-      "categoryid": 4
+      "categoryId": 4
     },
     {
       "id": "TH30",
@@ -127,7 +127,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH30.mp4",
       "type": "video",
-      "categoryid": 4
+      "categoryId": 4
     },
     {
       "id": "VD170",
@@ -139,7 +139,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/VD170.mp4",
       "type": "video",
-      "categoryid": 4
+      "categoryId": 4
     },
     {
       "id": "VD175_02_UT",
@@ -151,7 +151,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/VD175_02_UT.mp4",
       "type": "video",
-      "categoryid": 4
+      "categoryId": 4
     },
     {
       "id": "EV7",
@@ -163,7 +163,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV7.mp4",
       "type": "video",
-      "categoryid": 5
+      "categoryId": 5
     },
     {
       "id": "EV66a",
@@ -175,7 +175,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV66a.mp4",
       "type": "video",
-      "categoryid": 5
+      "categoryId": 5
     },
     {
       "id": "EV3",
@@ -187,7 +187,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV3.mp4",
       "type": "video",
-      "categoryid": 5
+      "categoryId": 5
     },
     {
       "id": "EV8",
@@ -199,7 +199,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV8.mp4",
       "type": "video",
-      "categoryid": 5
+      "categoryId": 5
     },
     {
       "id": "Fremd_038",
@@ -211,7 +211,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_038.mp4",
       "type": "video",
-      "categoryid": 6
+      "categoryId": 6
     },
     {
       "id": "TH24",
@@ -222,7 +222,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/TH24.mp4",
       "type": "video",
-      "categoryid": 6
+      "categoryId": 6
     },
     {
       "id": "Fremd_153",
@@ -234,7 +234,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_153.mp4",
       "type": "video",
-      "categoryid": 6
+      "categoryId": 6
     },
     {
       "id": "Spam_Main_2015_neu",
@@ -246,7 +246,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Spam_Main_2015_neu.mp4",
       "type": "video",
-      "categoryid": 7
+      "categoryId": 7
     },
     {
       "id": "Fremd_134",
@@ -258,7 +258,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_134.mp4",
       "type": "video",
-      "categoryid": 7
+      "categoryId": 7
     },
     {
       "id": "Fremd_029",
@@ -270,7 +270,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_029.mp4",
       "type": "video",
-      "categoryid": 7
+      "categoryId": 7
     },
     {
       "id": "Fremd_140",
@@ -282,7 +282,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_140.mp4",
       "type": "video",
-      "categoryid": 8
+      "categoryId": 8
     },
     {
       "id": "Fremd_106",
@@ -294,7 +294,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_106.mp4",
       "type": "video",
-      "categoryid": 8
+      "categoryId": 8
     },
     {
       "id": "EV56",
@@ -306,7 +306,7 @@
       "subtitle": null,
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV56.mp4",
       "type": "video",
-      "categoryid": 8
+      "categoryId": 8
     }
   ],
   "categories": [
