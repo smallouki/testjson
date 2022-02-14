@@ -271,42 +271,6 @@
       "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_029.mp4",
       "type": "video",
       "categoryId": 7
-    },
-    {
-      "id": "Fremd_140",
-      "name": "Die MagentaTVBox \u2013 Ersteinrichtung",
-      "description":
-        "Wir zeigen Ihnen, wie einfach und komfortabel die Einrichtung der MagentaTV Box ist.",
-      "thumbnail":
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/5acb27031ac8abc69f88432c43fcf170.jpg",
-      "subtitle": null,
-      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_140.mp4",
-      "type": "video",
-      "categoryId": 8
-    },
-    {
-      "id": "Fremd_106",
-      "name": "Mach Dein WLAN fit \u2013 bauliche Hindernisse \u00fcberwinden.",
-      "description":
-        "In unserem dritten der Serie \u201eMach Dein WLAN fit!\u201c zeigen wir, mit welche baulichen \u0022Feinden\u0022 es unser WLAN-Signal aufnehmen muss, bis es Laptop, Smartphone \u0026 Co. versorgen kann.",
-      "thumbnail":
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/1eaa1de5fef38f513d9775d5b9534cf3.jpg",
-      "subtitle": null,
-      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/Fremd_106.mp4",
-      "type": "video",
-      "categoryId": 8
-    },
-    {
-      "id": "EV56",
-      "name": "Speed Home WiFi – Highspeed-WLAN überall in Ihrem Zuhause installieren",
-      "description":
-        "Richten Sie mit Speed Home WiFi ein flächendeckendes Mesh-WLAN Netzwerk ein und genießen Sie Highspeed in jedem Winkel Ihres Zuhauses bzw. Ihrer Wohnung.",
-      "thumbnail":
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/74815961ac14cdd49f59dfdcb0da5b0d.jpg",
-      "subtitle": null,
-      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV56.mp4",
-      "type": "video",
-      "categoryId": 8
     }
   ],
   "categories": [
