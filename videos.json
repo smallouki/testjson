@@ -82,18 +82,6 @@
       "categoryId": 2
     },
     {
-      "id": "EV52",
-      "name": "video-ident \u2013 Die neue Art der identifikation f\u00fcr Ihre Mobilfunkbestellung",
-      "description":
-        "\u0022Seit letztem Jahr bieten wir Ihnen die M\u00f6glichkeit sich direkt online \u00fcber videoident zu legitimieren. Dieses neue Sie lediglich Ihren Ausweis und eine Kamera. Den Ausweis pr\u00fcft unser Service-Mitarbeiter direkt online mit Ihnen pers\u00f6nlich. video-ident ist schnell, einfach und sicher.  Das folgende video erkl\u00e4rt Ihnen in aller K\u00fcrze und einfach den Ablauf",
-      "thumbnail":
-        "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/thumbnails/b8fc0b538db0d1a6b22b01d505c7adaf.jpg",
-      "subtitle": null,
-      "url": "https://dtks-hilfevideo-uploader.s3.eu-central-1.amazonaws.com/public/EV52.mp4",
-      "type": "video",
-      "categoryId": 3
-    },
-    {
       "id": "EV57",
       "name": "Telekom Gesch\u00e4ftskunden \u2013 Bereitstellung, Verkabelung und Einrichtung des Routers",
       "description":
